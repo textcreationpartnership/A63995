@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Twenty-one conclusions further demonstrating the schism of the Church of England formerly offer'd in confutation of Dr. Hammond and Bishop Bramhall : to which are added some reasons tender'd to impartial people why Dr. H. Maurice, Chaplain to His Grace of Canterbury, ought not to be traduc'd as the licenser of the pamphlet entituled A plain answer to a popish priest, questioning the orders of the Church of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63995</idno>
+            <idno type="STC">Wing T3413</idno>
+            <idno type="STC">ESTC R26339</idno>
+            <idno type="EEBO-CITATION">09432202</idno>
+            <idno type="OCLC">ocm 09432202</idno>
+            <idno type="VID">43083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43083)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1318:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Twenty-one conclusions further demonstrating the schism of the Church of England formerly offer'd in confutation of Dr. Hammond and Bishop Bramhall : to which are added some reasons tender'd to impartial people why Dr. H. Maurice, Chaplain to His Grace of Canterbury, ought not to be traduc'd as the licenser of the pamphlet entituled A plain answer to a popish priest, questioning the orders of the Church of England.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Cruttendon,</publisher>
+                  <pubPlace>Oxon. :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43083:1"/>
+            <p>TWENTY-ONE Concluſions Further Demonſtrating the SCHISM OF THE Church of England <hi>&amp;c.</hi>
+            </p>
+            <p>Formerly Offer'd in Confutation of Dr. <hi>Hammond,</hi> and Biſhop <hi>Bramhall.</hi>
+            </p>
+            <p>
+               <hi>To which are added,</hi> Some Reaſons Tender'd to impartial people, Why Dr. <hi>H. Maurice,</hi> Chaplain to his Grace of <hi>Canterbury,</hi> ought not to be Traduc'd a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Licenſer of the Pamphlet, entituled, <hi>A Plain Anſwer to a Popiſh Priest, Queſtion<g ref="char:EOLhyphen"/>ing the Orders of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of England.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Printed by <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> One of His Majeſty's <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43083:2"/>
+            <pb n="3" facs="tcp:43083:2"/>
+            <head>Twenty-One CONCLUSIONS Further Demonſtra<g ref="char:EOLhyphen"/>ting the SCHISM of the Church of <hi>England,</hi> &amp;c.</head>
+            <p n="1">I. <hi>THat</hi> (whatſoever the Extent of the Pope's Authority be, or be not, yet) '<hi>tis clear, that all Roman-Catholicks, that is, all Communicants with the Church of</hi> Rome, <hi>or Papiſts, hold the ſubſtance of the Popes Authority; that is, hold the Pope to be Supreme Eccleſiaſtical Governor in God's Church.</hi> This is evident from the very terms, ſince to acknowledg the Papal Au<g ref="char:EOLhyphen"/>thority is to be a Papiſt, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Communicant with the Church of <hi>Rome.</hi>
+            </p>
+            <p n="2">II. <hi>The holding or acknowledging this Authority, is to all that hold it, that is, to the whole Church of</hi> Rome, <hi>or to all thoſe particular Church's united with</hi> Rome, <hi>a Principle of Unity in Government.</hi> This is plain likewiſe from the terms; ſince an Acknowledgment of one Supreme Gover<g ref="char:EOLhyphen"/>nor, either in Secular or: Spiritual affairs, is the Ground which eſtabliſhes thoſe Acknowledgers in ſubmiſſion to that one Government; that is, 'tis to them <hi>a Principle of Unity in Government.</hi>
+            </p>
+            <p n="3">III. '<hi>Tis evident, That all thoſe Churches in Communion with the Church of</hi> Rome <hi>hold firmly, that whatſoever the Living Voice of the preſent Church,</hi> i. e. <hi>of Paſtors and Fathers of Families directed by thoſe Paſtors, ſhall unanimouſly conſpire to teach and deliver to Learners and Children to have been re<g ref="char:EOLhyphen"/>ceived from their immediate Paſtors and Fathers, as taught by Chriſt and his Apoſtles, is to be undoubtedly held as taught by them;</hi> i. e. <hi>that this delivery from immediate Forefathers as from theirs, as from Chriſt, is an infallible and certain Rule of Faith, that is, a Principle of Unity in Faith.</hi> This to be the Tenet of all particular Churches in Communion with <hi>Rome,</hi> both ſides acknowledg; and it is hence evi<g ref="char:EOLhyphen"/>dent, that the Body made up of ſuch Churches ever caſt
+<pb n="4" facs="tcp:43083:3"/>
+out from its Communion all thoſe that did innovate againſt this Tenet.</p>
+            <p n="4">IV. <hi>'Tis manifeſt, that all the Churches in Communion with</hi> Rome <hi>equally held at the time of the Proteſtant Re<g ref="char:EOLhyphen"/>formation, in K.</hi> Henry's <hi>days, theſe two Principles as they do now,</hi> i. e. 1. <hi>The ſubſtance of the Pope's Authority, or that he is Supreme in God's Church; 2. That the Living Voice of the preſent Church, delivering as aboveſaid, is the infallible Rule of Faith.</hi> This is manifeſted by our Ad<g ref="char:EOLhyphen"/>verſaries impugning thoſe Churches, as holding Tra<g ref="char:EOLhyphen"/>dition and the Popes Headſhip; nor was it ever pre<g ref="char:EOLhyphen"/>tended, that either thoſe Churches held not theſe Tenets then, or that they have renounc'd them ſince.</p>
+            <p n="5">V. <hi>The Church of</hi> England, <hi>immediately before the Refor<g ref="char:EOLhyphen"/>mation, was one of thoſe Churches which held Communion with</hi> Rome, (as all the world grant) <hi>and conſequently held with the reſt the two foremention'd Tenets, prov'd to have been the Principles of Unity both in Faith and Government.</hi>
+            </p>
+            <p n="6">VI. <hi>That Body of Chriſtians, or that Chriſtian Common<g ref="char:EOLhyphen"/>wealth conſiſting of the then-Church of</hi> England <hi>and other Churches in Communion with</hi> Rome, <hi>holding Chriſt's Law upon the ſaid tenure of immediate Tradition, and ſubmitting to the Eccleſiaſtical Supremacy of the Pope, was a true and real Church.</hi> This is manifeſt by our very Adverſaries acknowledgment, who grant the now Church of <hi>Rome,</hi> even without their Church, to be a true and real one, tho holding the ſame Principles of Unity, both in Faith and Government, which ſhe held when the Reformers revolted from her.</p>
+            <p n="7">VII. <hi>That Body conſiſting of the then Church of</hi> England, <hi>and her other Fellow-communicants with</hi> Rome <hi>was united or made one by means of theſe two Principles of Unity.</hi> For the undoubted acknowledgment of one common Rule of Faith to be certain, is in it's own nature apt to unite thoſe Acknowledgers in Faith, that is, to unite them as Faith<g ref="char:EOLhyphen"/>ful, and conſequently in all other Actions ſpringing from Faith. And the undoubted acknowledgment of one Su<g ref="char:EOLhyphen"/>preme Eccleſiaſtical Governor gave theſe Acknowledgers
+<pb n="5" facs="tcp:43083:3"/>
+an Eccleſiaſtical Unity, or Church-communion under the notion of Governed, or Subjects of an Eccleſiaſtical Com<g ref="char:EOLhyphen"/>monwealth. Now nothing can more nearly concern a Church, than the Rules of Faith and Government, eſpe<g ref="char:EOLhyphen"/>cially if the Government be of Faith, and receiv'd upon its Rule. Seeing then theſe two Principles gave them ſome Unity and Communion as <hi>Faithful,</hi> and as belonging to an Eccleſiaſtical Commonwealth, it muſt neceſſarily be Church-Unity and Communion which theſe two Princi<g ref="char:EOLhyphen"/>ples gave them.</p>
+            <p n="8">VIII. <hi>The Protestant Reformers renounced both theſe Principles.</hi> This is undeniably evident, ſince they left off to hold the Pope's Supreme power to act in Eccleſiaſtical affairs, and alſo to hold divers points, which the former Church immediately before the breach, had receiv'd from immediate Paſtors and Fathers, as from Chriſt.</p>
+            <p n="9">IX. Hence follows, <hi>That thoſe Reformers in renouncing theſe two Principles did commit the horrid fact of breaking Church-Communion, or Schiſmatizing.</hi> This is demonſtrably conſequent from the two laſt Paragraphs, where 'tis pro<g ref="char:EOLhyphen"/>ved, that thoſe two Principles made Church-Communion, that is, cauſed Unity in that Body which themſelves ac<g ref="char:EOLhyphen"/>knowledg a true Church; as alſo, that they renounc'd or broke thoſe Principles; therefore they broke that which United the Church: And ſo broke the Unity of the Church, or Schiſmatiz'd.</p>
+            <p n="10">X. <hi>This renouncing thoſe two Principles of Eccleſiaſtical Communion, prov'd to have been an actual breach of Church-Unity, was antecedent to the Pope's Excommunicating the Proteſtants, and his commanding Catholicks to abſtain from their Communion.</hi> This is known, and acknowledg'd by all the world; nor till they were Proteſtants by renoun<g ref="char:EOLhyphen"/>cing thoſe Principles, could they be Excommunicated as Proteſtants.</p>
+            <p n="11">XI. <hi>This actual breach of Church-Unity in King</hi> Henry's, Edward <hi>the Sixth's, and the beginning of Queen</hi> Elizabeth'<hi>s Reign, could not be imputable to the ſubſequent Excommu<g ref="char:EOLhyphen"/>nication,
+<pb n="6" facs="tcp:43083:4"/>
+as to its cauſe.</hi> 'Tis plain, ſince the Effect can<g ref="char:EOLhyphen"/>not be before the Cauſe.</p>
+            <p n="12">XII. <hi>Thoſe ſubſequent Excommunications, cauſed not the actual Breach, or Sc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſm between us</hi> For the antecedent renouncing thoſe two points, ſhew'n to have been the Principles of Eccleſiaſtical Unity, had already cauſed the breach, dis-union, or diviſion between us: But, thoſe be<g ref="char:EOLhyphen"/>tween whom an actual diviſion is made, are not ſtill divi<g ref="char:EOLhyphen"/>ſible; that is, th<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> who are already divided are not now to be divided. Wherefore however it may be pretended, that thoſe Excommunications made thoſe Congregations, who were antecedently thus divided, ſtand at further di<g ref="char:EOLhyphen"/>ſtance from one another; yet 'tis moſt ſenſleſs, and un<g ref="char:EOLhyphen"/>worthy a man of reaſon to affirm, that they divided thoſe who were already divided e're thoſe Excommunications came. Eſpecially, ſince the Rule of Faith, and the ſub<g ref="char:EOLhyphen"/>ſtance of the Pope's Authority conſiſt in an indiviſible, and are points of that nature, that the renouncing t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſe, is a Principle of renouncing all Faith and Government. For, whoever renounces any Rule, may, nay ought, if he act conſequently, renounce all he holds upon that Rule, whether points of Faith or of Government, nay even the Letter of God's Written Word it ſelf; that is, all that Chriſt left us, or that can concern a Church.</p>
+            <p n="13">XIII. <hi>The renouncing thoſe two Principles of the former Church-Unity, as it evidently diſunited men's minds in order to Faith and Government, ſo, if reduced into practice, it muſt neceſſarily dis-unite or divide them likewiſe in External Church-carriage.</hi> This is clear, ſince our Tenets are the Principles of our Actions; and ſo contrary Tenets of con<g ref="char:EOLhyphen"/>trary carriage.</p>
+            <p n="14">XIV. <hi>Thoſe tenets contrary to the two Principles of Church-Unity were</hi> de facto <hi>put in practice by the Reforming Party; and conſequently they divided the Church, both internally and externally.</hi> This is moſt undeniably evident; ſince they wrote, preach'd, and acted againſt the Tradition, or Deli<g ref="char:EOLhyphen"/>very
+<pb n="7" facs="tcp:43083:4"/>
+of the immediately foregoing Church, as erroneous in many points, which ſhe deliver'd to them as from im<g ref="char:EOLhyphen"/>mediate Fathers, and ſo upwards as from Chriſt; and pro<g ref="char:EOLhyphen"/>ceeded now to interpret Scripture by another Rule than by the Tenets and Practice of that immediately foregoing Church. And as for the former Government, they abſo<g ref="char:EOLhyphen"/>lutely renounc'd its influence in <hi>England,</hi> preach'd and wrote againſt it: Na<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>kept Congregations apart before they had got the power in their hands<g ref="char:punc">▪</g> and, after they had the power in their hands, puniſht and put to Death (and that upon account of Religion) many of the maintainers of thoſe two Principles of Church-Unity.</p>
+            <p n="15">XV. <hi>Hence follows, That the Proteſtant Breach was a perfect and compleat Fact of Schiſm.</hi> For it divided the former Eccleſiaſtical Body both internally and externally, and that as it was an <hi>Eccleſiaſtical</hi> Body, ſince it violated thoſe two Principles which concern'd <hi>Eccleſiaſtical Unity.</hi>
+            </p>
+            <p n="16">XVI. <hi>The ſubſequent Excommunication of our Church was therefore due, fitting, and neceſſary. Due;</hi> for it is as <hi>due</hi> a carriage towards thoſe who have actually renounc'd the Principles of Unity both in Faith and Government, and ſo broken Church-Unity, to be Excommunicated by that Body from which thoſe Renouncer's thus broke, as it is toward Rebels, who have renounc'd both Supreme Govern<g ref="char:EOLhyphen"/>ment and Fundamental Laws of a Commonwealth, and ſo divided the Temporal Body, to be denounced and pro<g ref="char:EOLhyphen"/>claimed Rebels by the ſame Commonwealth. <hi>Fitting,</hi> ſince the effect of it they moſt reſent, which was to keep the true Faithful apart in Eccleſiaſtical actions from them, ſignified no more than this, that they who had broken both internally and externally from the former Body ſhould not be treated with, in Eccleſiaſtical matters, as ſtill of it, nor be own'd for parts of that Commonwealth of which already they had made themſelves no parts. Laſtly, <hi>Neceſſary;</hi> All Government and good order going to wrack, if oppoſite parties be allow'd to treat together
+<pb n="8" facs="tcp:43083:5"/>
+commonly in ſuch actions in which their oppoſition muſt neceſſarily and frequently diſcover it ſelf; which will in<g ref="char:EOLhyphen"/>evitably diſguſt the more prudent ſort, hazard to pervert the weaker, and breed diſquiet on both ſides.</p>
+            <p>Thus far to evidence demonſtrably, that the external fact of Schiſm was truly theirs; which done, tho it be needleſs to add any more to prove them formal Schiſma<g ref="char:EOLhyphen"/>ticks, themſelves confeſſing that ſuch a fact cannot be juſti<g ref="char:EOLhyphen"/>fiable by any reaſons or motives whatſoever [<hi>Sch. c.</hi> 1.] Yet I ſhall not depend upon their ſtanding to their own words, knowing how eaſie a thing it is, for men who talk looſely, and not with ſtrict rigor of Diſcourſe, to ſhuffle off their own ſayings: I ſhall therefore proſecute my own method, and alledg, That</p>
+            <p n="17">XVII. <hi>The very doing an external fact, of ſo hainous a nature as is breaking Church-Unity, concludes a Guilt in the Actors, unleſs they render reaſons truly ſufficient to excuſe their fact.</hi> This is evident, <hi>a fortiori,</hi> by paralleling this to facts of inferior malice: For, whoſoever riſes againſt a long ſetled and acknowledg'd Temporal Power, is con<g ref="char:EOLhyphen"/>cluded by that very fact of riſing to be a Rebel, unleſs he render ſufficient reaſons for it: Otherwiſe, till thoſe rea<g ref="char:EOLhyphen"/>ſons appear, the Good of Peace, Order, and Unity, which he evidently violates by his riſing, concludes him moſt ir<g ref="char:EOLhyphen"/>rational and ſinful.</p>
+            <p n="18">XVIII. <hi>No reaſons can be ſufficient to excuſe ſuch a fact, but ſuch as are able to convince, that 'twas better to do that fact, than not to do it.</hi> This is moſt evident.</p>
+            <p n="19">XIX. <hi>In this caſe, where the point is demonſtrable, and of higheſt concern, no reaſon meerly probable can convince the Underſtanding, that the contrary was better to be done, but only a manifeſt and rigorous demonſtration.</hi> For, tho in the common ſort of human actions, an high Probability that the thing is in it ſelf better, be ſufficient for action, yet there are ſome things of a nature ſo manifeſt to all Man<g ref="char:EOLhyphen"/>kind to be univerſally good, that nothing but rigorous
+<pb n="9" facs="tcp:43083:5"/>
+Evidence can be pretended a ground ſufficient to oppoſe them. For example, that <hi>Parents are to be honour'd, that Government is to be in the World,</hi> that <hi>Unity of Govern<g ref="char:EOLhyphen"/>ment is to be kept up in God's Church,</hi> that <hi>there ought to be certain Grounds for Faith, &amp;c.</hi> Which, ſince on the one ſide they are ſuch as are in their own nature demon<g ref="char:EOLhyphen"/>ſtrable, and indeed ſelf-evident, and on the other ſo univer<g ref="char:EOLhyphen"/>ſally beneficial, and conſequently an univerſal harm, or rather a deluge of inconveniences &amp; miſchief would break in if the Actor againſt theſe ſhould happen to be in the wrong; He is therefore bound in theſe caſes not to act till he ſees the utmoſt that is to be ſeen concerning ſuch af<g ref="char:EOLhyphen"/>fairs: But affairs of this nature are demonſtrable, or ra<g ref="char:EOLhyphen"/>ther ſelf-evident (as is ſaid) on the one ſide, therefore he ought not to act, unleſs he could ſee perfect demonſtra<g ref="char:EOLhyphen"/>tion, that 'tis better for him to act otherwiſe: Wherefore, it having been manifeſtly prov'd, that this Fact of theirs left neither <hi>Certain Ground of Faith,</hi> nor <hi>Unity of Govern<g ref="char:EOLhyphen"/>ment</hi> in God's Church, nothing but a perfect and rigorous <hi>demonſtration</hi> could be able to <hi>convince</hi> the Underſtanding, that 'twas <hi>better to act.</hi>
+            </p>
+            <p n="20">XX. <hi>The Proteſtants produce no ſuch demonſtration, that 'twas better to act in this caſe.</hi> For, they never clos'd with ſevere demonſtration, in any of their Writings I have yet ſeen, to evidence rigorouſly either, That the Rule of immediate Delivery was not <hi>certain,</hi> or that the Pope had no Supreme Authority in Eccleſiaſtical affairs, or laſtly, that the Pope's Authority was to be aboliſht for the <hi>Abuſes</hi> ſake: Which were neceſſary to be done, ere they could demonſtrate it better to break Church-Unity. Nor does their manner of writing bear the ſlen<g ref="char:EOLhyphen"/>dereſt reſemblance of rigorous demonſtration: Since de<g ref="char:EOLhyphen"/>monſtration is not a connecting of Air and Words, but of Notions and Senſe; and this from ſelf-evident Prin<g ref="char:EOLhyphen"/>ciples even to the very intended Concluſion. Whereas their way of Writing is only to find out the Sence of
+<pb n="10" facs="tcp:43083:6"/>
+Words by a kind of Dictionary-manner; which ſort of Diſcourſe is the moſt fallible, ſleight, and ſubject to Equi<g ref="char:EOLhyphen"/>vocation, that can be imagin'd. To omit, that rigorous Demonſtration is pretended by our Party for the proof of our Rule of Faith, <hi>viz.</hi> immediate Tradition, which they renounc'd; and conſequently for the proof of whatſoever was receiv'd upon it (as was the Pope's Authority) as yet unanſwer'd by their ſide. Nay their own ſide ſometimes acknowledg our ſaid Rule of Faith infallible; even Dr. <hi>Hammond</hi> himſelf, who affirms, that Univerſal Atteſta<g ref="char:EOLhyphen"/>tion makes one as <hi>certain of a thing, as if he had ſeen it with his own eyes.</hi>
+            </p>
+            <p n="11">XI. '<hi>Tis the moſt abſurd and impious folly imaginable, to bring for their excuſe, That they were fully perſwaded the thing was to be done, or is to be continued.</hi> For, ſince a full perſwaſion may ſpring from Paſſion or Vice, as well as from Reaſon and Virtue, it ſignifies nothing, in order to an excuſe, to ſay one was fully perſwaded he was to do ſuch a thing, till he ſhew whence he became thus per<g ref="char:EOLhyphen"/>ſwaded; otherwiſe his perſwaſion might be a fault it ſelf, and the occaſion of his other fault in thus acting. 'Tis not therefore his Perſwaſion, but the Ground of his Perſwaſion, which is to be alledged, and lookt into. Which, if it were Reaſon, whence he came thus perſwaded, and that he knew how he came to be perſwaded (without knowing which, 'twas irrational to be perſwaded at all) then he can render us this reaſon which perſwaded him; and reaſon telling us evidently, that no reaſon leſs than demonſtration is in our caſe able to breed full perſwaſion or conviction, that it was <hi>better to act</hi> (as hath been prov'd <hi>Conc.</hi> 19.) It follows, they muſt give us a demon<g ref="char:EOLhyphen"/>ſtrative reaſon, why 'twas better to be done, otherwiſe they can never juſtifie that perſwaſion, much leſs the fact which iſſued from it: But the fact being evidently enor<g ref="char:EOLhyphen"/>mous, and againſt a preſent Order of higheſt concern, and no truly evident reaſon appearing, why 'twas bet<g ref="char:EOLhyphen"/>ter
+<pb n="11" facs="tcp:43083:6"/>
+to do that fact, 'tis from it ſelf convinc'd, and con<g ref="char:EOLhyphen"/>cluded irrational, precipitate, and vicious. If they com<g ref="char:EOLhyphen"/>plain of this doctrine, as too rigorous in leaving no ex<g ref="char:EOLhyphen"/>cuſe for weak and ignorant perſons, who act out of ſimpli<g ref="char:EOLhyphen"/>city: I reply, either their firſt Reformers, and themſelves the continuers of the Breach, thought themſelves igno<g ref="char:EOLhyphen"/>rant of thoſe things they went about to reform, or no. If they thought themſelves ignorant, and yet attempted to make themſelves Judges, 'tis a plain ſelf-condemnation and irrational. If they were ignorant, or in ſome degree ignorant, or in ſome degree leſs ignorant; then I ask, what made them think themſelves wiſer than they were, except their own Pride: So that which way ſoever they turn, their fault and guilt purſue them. But, if they were indeed knowing in thoſe things, then 'tis apparent there are no truly ſufficient, convincing, or demonſtrative rea<g ref="char:EOLhyphen"/>ſons to be given why they acted, ſince they were never able to produce any ſuch, tho urg'd and oblig'd thereunto by the higheſt motives imaginable. Whence they remain ſtill criminal as in the former caſes, and indeed much more, leaving it manifeſt, that neither perſwaſion, nor their fact which was originiz'd from it, ſprung from Rea<g ref="char:EOLhyphen"/>ſon in their Underſtanding, but from Paſſion and Affection in their Will.</p>
+            <p rend="italic">Therefore the Proteſtants are Guilty both of Material and Formal Schiſm; ſince 'tis evident, they have done both a Schiſmatical Fact, and out of a Schiſmatical Affection.</p>
+         </div>
+         <div type="text">
+            <pb n="12" facs="tcp:43083:7"/>
+            <head>Some Reaſons tender'd to impartial perſons, why Dr. <hi>H. Mau<g ref="char:EOLhyphen"/>rice,</hi> Chaplain to his Grace of <hi>Canterbury,</hi> ought not to be Traduc'd as the <hi>Licenſer</hi> of the Pamplet, entituled, A Plain Anſwer to a <hi>Popiſh Prieſt,</hi> Queſtioning the <hi>Orders</hi> of the Church of <hi>England.</hi>
+            </head>
+            <p n="1">1. DR. <hi>H. Maurice</hi> is not that weak, illiterate Man, as to let paſs with his <hi>Imprimatur,</hi> ſuch a forg'd imputation, as I find in the 5th and 6th Line; <hi>Our</hi> (Church of <hi>England) Ordainers are Schiſmaticks, or Hereticks, and ſo cannot Ordain. Forg'd,</hi> I ſay, becauſe the Pamphlet ſays, this <hi>uſeth</hi> to be objected; whereas it is moſt notoriouſly falſe, That Ordination from a Schiſmatick or Heretick is invalid; and equally falſe, that <hi>Papists</hi> argue from the Schiſm or Hereſie of the Ordainer, that the power of Conferring Orders is null: And conſequently, it is not the <hi>Papists</hi> objection, but a meer fiction, that this <hi>hard forehead</hi> preſumes to obtrude upon us, as approv'd by Dr. <hi>Maurice.</hi>
+            </p>
+            <p n="2">2. Dr. <hi>Maurice</hi> knows, that <hi>Lambeth</hi>-Ordination, as to the matter of fact, depends on the Veracity of Dr. <hi>Parker;</hi> and if Dr. <hi>Parker</hi> was ſo upright a man, as never to have forg'd or corrupted Records, (which I hear the <hi>Papists</hi> pretend to prove) the <hi>Nags-head-Ordination</hi> will require a very <hi>ſtrong aſſurance</hi> to out-face Dr. <hi>Parker's Record.</hi> But that his Ordainers were Three, nay more than Three <hi>true</hi> Biſhops, is ſuch a great point, that the <hi>Papiſts</hi> muſt eternally be dumb, if this can be made out; and therefore it would be kindly taken, if an Authentick <hi>Record</hi> were produc'd to prove they were all, or any of them ſo. And whereas in the Archives of <hi>Canterbury</hi> Dr. <hi>Maurice</hi> can<g ref="char:EOLhyphen"/>not find any ſuch Record, he could not ſuppoſe this Pam<g ref="char:EOLhyphen"/>phleteer reſponſible for any ſuch.</p>
+            <pb n="13" facs="tcp:43083:7"/>
+            <p n="3">3. All know, That as to the Succeſſion in Doctrine, the <hi>Arians</hi> had it not, tho they pleaded Belief of all Neceſ<g ref="char:EOLhyphen"/>ſaries to Salvation believ'd ſo before <hi>Nice;</hi> and the <hi>Pa<g ref="char:EOLhyphen"/>pists</hi> ſay, the <hi>Proteſtants</hi> Plea and Belief is no better, whilſt they ſubmit not to the Deciſions of <hi>Trent.</hi> So that Suc<g ref="char:EOLhyphen"/>ceſſion in Doctrine is a Diſputable point; and Dr. <hi>Mau<g ref="char:EOLhyphen"/>rice</hi> has more judgment than to approve what is <hi>boldly ſaid,</hi> not <hi>prov'd</hi> at all.</p>
+            <p n="4">4. If then it be uncertain (for <hi>Infallibility</hi> the Church of <hi>England</hi> pretends not to), whether Proteſtants have that Succeſſion of Doctrine, (the Pamphlet proves it not, but only ſays <hi>we have</hi>), it ſhould have been prov'd, that at leaſt they have Succeſſion of Perſons to ſhew, who have all along had true Orders, and conferr'd them on other Ordainers till theſe times. The Pamphlet ſays ſo in theſe words, <hi>We have had ſuch a Succeſſion from the very foundation of our Church.</hi> But neither tells us whence he times <hi>this founda<g ref="char:EOLhyphen"/>tion</hi> of his Church, nor troubles himſelf to prove this Succeſſion, otherwiſe than by <hi>ſaying</hi> it is not <hi>neceſſary</hi> to ſhew it. It will not eaſily be believ'd, that Dr. <hi>Maurice</hi> cannot diſtinguiſh betwixt <hi>ſaying</hi> and <hi>proving,</hi> or that he <hi>approv'd</hi> the Paper which does ſo.</p>
+            <p n="5">5. If thoſe <hi>Weſtern</hi> Fathers prove Innovation upon Hereticks, becauſe they wanted true Succeſſion from the Apoſtles; and by inſtancing in the Succeſſion of the Church of <hi>Rome,</hi> prove evidently they meant Succeſſion of Perſons; then certainly ſtants muſt endeavour to anſwer better than they, leſt they ſeem to be only Yeſterday-men; and if their Plea of Believing all Neceſſaries to Salvation, or Succeſſion of Doctrine, excus'd them not; and if Suc<g ref="char:EOLhyphen"/>ceſſion of Perſons not ſhew'n, convinc'd them of Novelty<g ref="char:punc">▪</g> ſomething more Proteſtants muſt have to ſay, than that <hi>it is not neceſſary to ſhew any.</hi> And ſince this man does not, and thence gives occaſion to <hi>Papists</hi> to think it cannot be done, I muſt not think Dr. <hi>Maurice</hi> would concur to expoſe his Church.</p>
+            <pb n="14" facs="tcp:43083:8"/>
+            <p n="6">6. He approves not that Aphoriſm, <hi>None can conſer that Power on another, which he hath not himſelf:</hi> Becauſe if it were true, <hi>an Infidel could not give Baptiſm, becauſe not Baptiz'd.</hi> Truly I do not ſee how this follows, tho that Aphoriſm be generally true. For, if Baptiſm be not the <hi>power</hi> of Baptizing, then ſurely one not Baptized may have the <hi>power</hi> of Baptizing; and if he exerciſes this <hi>power,</hi> he does not confer a <hi>power</hi> on another which he has not himſelf. I fear this man, by this <hi>Innuendo</hi> would diſpoſe us to believe, that their Biſhops had their Orders as validly from Laymen's, as others may in caſe of neceſ<g ref="char:EOLhyphen"/>ſity have Baptiſm from the hands of Infidels. It is what <hi>Savage</hi> allows to the diſgrace of his new Church, but I muſt not believe Dr. <hi>Maurice</hi> did.</p>
+            <p n="7">7. He ſays, That Chriſt inſtituted no Form of words; he ſays ſo, and that is his proof. Now to uſe ſome of his own terms, I would be glad to meet that man who could evidently prove to me, 1. That Chriſt inſtituted no Form of Words. 2. Deliver'd not the <hi>holy Veſſels to the Apo<g ref="char:EOLhyphen"/>ſtles.</hi> 3. Gave them no power to Offer Sacrifice for the Quick and the Dead. Proving is more than ſaying he did not.</p>
+            <p n="8">8. The Title ſays He (the Pamphleteer) is a Miniſter of the Church of <hi>England;</hi> and ſo we ſhould believe him a Divine; and if the conſequence were good, No Divine, no Miniſter; it would be viſible enough that he ſhamm'd us in the Title, For here comes <hi>Impoſition of Hands</hi> to be the Form of Orders. <hi>Riſum teneatis Theologi.</hi> Nay the <hi>Roman Church</hi> allows it (Impoſition of Hands) to be a ſufficient Form, nay the <hi>Grecian</hi> too, <hi>&amp;c.</hi> Antiquity, St. <hi>Chryſoſtom,</hi> whereas the <hi>Romiſh Form</hi> of <hi>touching the Veſ<g ref="char:EOLhyphen"/>ſels is younger by</hi> 800 <hi>years than our Saviour's time.</hi> Aſſuredly Dr. <hi>Maurice</hi> knows how to diſtinguiſh Matter and Form, which this poor man does not. And whilſt <hi>Papists</hi> charge Proteſtants to have <hi>no true Form,</hi> to anſwer they have a true <hi>Form,</hi> and then prove they have true <hi>Matter,</hi> and miſcall it
+<pb n="15" facs="tcp:43083:8"/>
+               <hi>Form,</hi> is not to anſwer them, but betray the Proteſtants; and I muſt not believe Dr. <hi>Maurice</hi> concern'd in it.</p>
+            <p n="9">9. His Anſwer to the third Objection is impertinent, becauſe it anſwers not any <hi>Popiſh</hi> Objection, as you ſee in the beginning, but only his own fiction. Indeed I ob<g ref="char:EOLhyphen"/>ſerve the kindneſs of this man to his Mother Church; he will ſuppoſe her Biſhops Schiſmatical and Heretical, and then defend the validity of her Ordination by the vali<g ref="char:EOLhyphen"/>dity of <hi>Laymen's Baptiſm,</hi> and ſuch-like caſes; which is the ſecond <hi>Innuendo,</hi> that as Laymen may validly Bap<g ref="char:EOLhyphen"/>tize, ſo they may validly Ordain Biſhops. Certainly Dr. <hi>Maurice</hi> would never approve this.</p>
+            <p>If Ordination of Hereticks be valid, as he allows here, then Succeſſion of Perſons, is ſufficient without Succeſſion of Doctrine, which he allows not before. But this man's Truth is like his Logick. <hi>Greeks</hi> ſent from the Semi<g ref="char:EOLhyphen"/>nary at <hi>Rome</hi> to be Ordained by Heretical Biſhops in the <hi>Eaſt!</hi> I believe he has no Authentick Record for this nei<g ref="char:EOLhyphen"/>ther.</p>
+            <p n="10">10. I conclude then, That this man's Intention is not to defend, but expoſe Proteſtant-Orders; and what he con<g ref="char:EOLhyphen"/>cludes with concerning the aſſurance of the validity of their Orders, becauſe they require not the Intention of the Ordainer, ſquints ſuſpitiouſly towards the <hi>Nags-head Ta<g ref="char:EOLhyphen"/>vern,</hi> as tho their firſt pretended Biſhops intending to be merry there, laid their Hands upon one another, without <hi>intending</hi> any more, and that any one may do as much for his Neighbour, and as validly too, when he intends no<g ref="char:EOLhyphen"/>thing leſs; and that ſuch only is the aſſurance of the validity of their Orders: and that ſuch is the Opinion too of Dr. <hi>H. Maurice,</hi> the Reſpect given to his Learning and his Character will not allow me to believe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43083:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
